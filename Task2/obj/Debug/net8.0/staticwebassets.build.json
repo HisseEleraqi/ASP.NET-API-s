@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "WHueK+FBZJ0/nsCyK4jcmZUHZBICd0D2g4cHxI2XXI0=",
+  "Source": "Task2",
+  "BasePath": "_content/Task2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Task2\\wwwroot",
+      "Source": "Task2",
+      "ContentRoot": "F:\\ITI Pd\\c#\\ASP.NET CORE API\\DAY2_AJAX and CallingAPI\\MainAPi\\Task2\\wwwroot\\",
+      "BasePath": "_content/Task2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

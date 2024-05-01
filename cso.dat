@@ -1,0 +1,14 @@
+V1
+2:IGenericRepo,H
+2:TEntity,j
+2:GetAllStudent,e
+2:GetStudentById,b
+2:id,y
+2:AddStudent,G
+2:Std,r
+2:GetStudentByPagenation,F
+2:page,n
+2:pageSize,B
+2:SearchStudent,C
+2:name,g
+2:save,s
